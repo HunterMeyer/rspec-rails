@@ -9,7 +9,6 @@ detailed explanations of how the application is supposed to behave,
 expressed in plain English.
 
 Use **[`rspec-rails` 3.x][]** for Rails earlier than 5.0.
-Use **[`rspec-rails` 1.x][]** for Rails 2.x.
 
 [Build Status]: https://secure.travis-ci.org/rspec/rspec-rails.svg?branch=master
 [travis-ci]: https://travis-ci.org/rspec/rspec-rails
