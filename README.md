@@ -18,7 +18,6 @@ Use **[`rspec-rails` 3.x][]** for Rails earlier than 5.0.
 [gem-version]: https://badge.fury.io/rb/rspec-rails
 [RSpec]: https://rspec.info/
 [Ruby on Rails]: https://rubyonrails.org/
-[`rspec-rails` 1.x]: https://github.com/dchelimsky/rspec-rails
 [`rspec-rails` 3.x]: https://github.com/rspec/rspec-rails/tree/3-9-maintenance
 
 ## Installation
